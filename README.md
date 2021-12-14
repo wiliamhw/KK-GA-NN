@@ -3,6 +3,6 @@
 > Model Neural Network dengan optimasi genetic algorithm guna memprediksi penyakit 
 kanker payudara sebagai final project matkul Kecerdasan Komputasional.
 
-### Mamang yang ngerjain:
-1. William Handi Wijaya
-2. Reyhan Naufal Rahman
+# Pembuat
+1. William Handi Wijaya - 05111940000087
+2. Reyhan Naufal Rahman - 05111940000171
